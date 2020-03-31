@@ -29,6 +29,10 @@ public class Main {
         System.out.println("Nombre: Denilson Baltazar Ramírez Andrés");
         System.out.println("Direccion: Barillas Zona 6");
         System.out.println("Telefono: 46400006");
+        
+        System.out.println("Diego Alejandro Samayoa Gómez");
+        System.out.println("Cambote, Zona 11, Huehuetenango");
+        System.out.println("3130-8640");
     }
     
 }
